@@ -16,7 +16,7 @@ const ibmPlexSerif = Inter({
 
 export const metadata: Metadata = {
   title: "Bankify",
-  description: "Bankify is moedern banking platform",
+  description: "Bankify is modern banking platform",
   icons:{
     icon:'/icon/logo.svg'
   }
